@@ -14,3 +14,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrcchenfeng&theme=xcode" />
 </div>
 
+<div align="center"><img src="./assets/github-snake-dark.svg" /></div>
