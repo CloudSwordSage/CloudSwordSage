@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mrcchenfeng/mrcchenfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning `Python` `PyTorch` `Java`
+- 📫 How to reach me: `1984769759@qq.com` `zlf100518@gmail.com` `zlf100518@163.com`
 
-Here are some ideas to get you started:
+## Skills
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,linux,git,html,css,js" /> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcchenfeng&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcchenfeng&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrcchenfeng&theme=xcode" />
+</div>
+
