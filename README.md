@@ -15,3 +15,6 @@
 </div>
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
