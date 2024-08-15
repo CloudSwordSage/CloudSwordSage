@@ -14,7 +14,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrcchenfeng&theme=xcode" />
 </div>
 
-<div align="center"><img src="./assets/github-snake-dark.svg" /></div>
+## WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -88,3 +88,5 @@ Vue                      1 repo              █████░░░░░░�
 
  Last Updated on 15/08/2024 03:27:31 UTC
 <!--END_SECTION:waka-->
+
+<div align="center"><img src="./assets/github-snake-dark.svg" /></div>
