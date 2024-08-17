@@ -17,7 +17,7 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -97,7 +97,7 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mrcchenfeng/mrcchenfeng/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 06:41:31 UTC
+ Last Updated on 17/08/2024 06:49:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
