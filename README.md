@@ -17,15 +17,13 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 418.8 kB Used in GitHub's Storage 
- > 
-> 🏆 109 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +95,7 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mrcchenfeng/mrcchenfeng/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 07:02:19 UTC
+ Last Updated on 20/08/2024 12:20:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
