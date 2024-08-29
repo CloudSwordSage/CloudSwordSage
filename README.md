@@ -17,7 +17,7 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,7 +85,7 @@ Windows                  22 hrs 59 mins      ███████████�
 
 ```text
 Python                   5 repos             █████████████████████░░░░   83.33 % 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Dart                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -95,7 +95,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mrcchenfeng/mrcchenfeng/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2024 13:12:52 UTC
+ Last Updated on 29/08/2024 18:14:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
