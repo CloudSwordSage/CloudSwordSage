@@ -29,7 +29,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -97,7 +97,7 @@ Dart                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mrcchenfeng/mrcchenfeng/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2024 18:33:47 UTC
+ Last Updated on 05/10/2024 18:44:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
