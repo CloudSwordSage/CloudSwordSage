@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning `Python` `PyTorch` `Java`
+- 🌱 I’m currently learning `Python` `PyTorch` `Java` `vue`
 - 📫 How to reach me: `1984769759@qq.com` `zlf100518@gmail.com` `zlf100518@163.com`
 
 ## Skills
