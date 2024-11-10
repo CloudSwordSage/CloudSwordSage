@@ -4,7 +4,7 @@
 - 📫 How to reach me: `1984769759@qq.com` `zlf100518@gmail.com` `zlf100518@163.com`
 
 ## Skills
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,js" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,js,ts" /> </div>
 
 ## GitHub Statistics
 
