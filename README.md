@@ -17,7 +17,7 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,7 +96,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2024 02:13:03 UTC
+ Last Updated on 13/11/2024 06:16:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
