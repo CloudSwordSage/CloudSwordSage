@@ -17,15 +17,13 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 636.0 kB Used in GitHub's Storage 
- > 
-> 🏆 284 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,7 +94,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2024 07:18:00 UTC
+ Last Updated on 14/11/2024 12:23:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
