@@ -25,8 +25,6 @@
 
 > 📦 636.2 kB Used in GitHub's Storage 
  > 
-> 🏆 285 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -92,7 +90,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 06:35:05 UTC
+ Last Updated on 21/12/2024 06:45:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
