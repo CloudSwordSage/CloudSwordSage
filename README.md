@@ -23,7 +23,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 636.3 kB Used in GitHub's Storage 
+> 📦 636.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,7 +96,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 02:16:00 UTC
+ Last Updated on 07/01/2025 06:17:39 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="./assets/github-snake-dark.svg" /></div>
