@@ -1,7 +1,10 @@
-# 🌊 Hi there! I'm CloudSwordSage 🗡️
+# 🌊 你好！我是云剑客·CloudSwordSage | Hi there! I'm CloudSwordSage 🗡️
 
 ⚡ **A passionate developer exploring the realms of code**  
 🌌 *Turning coffee into code, one commit at a time*
+
+⚡ **执代码为剑，探数字疆界的开发者**  
+🌌 *以咖啡为墨，写字节人生，每次提交皆是修行*
 
 ---
 
@@ -14,8 +17,6 @@
 ---
 
 ## 📚 当前修炼 | Learning Trail
-- 🌱 **Cultivating**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
