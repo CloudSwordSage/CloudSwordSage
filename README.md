@@ -1,4 +1,4 @@
-# 🌊 你好！我是云剑客·CloudSwordSage | Hi there! I'm CloudSwordSage 🗡️
+# 🌊 你好！我是墨烟行 | Hi there! I'm CloudSwordSage 🗡️
 
 ⚡ **A passionate developer exploring the realms of code**  
 🌌 *Turning coffee into code, one commit at a time*
@@ -17,6 +17,7 @@
 ---
 
 ## 📚 当前修炼 | Learning Trail
+
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -24,6 +25,7 @@
 ---
 
 ## 📮 联系通道 | Connect With Me
+
 <div align="center">
   
 [![Email](https://img.shields.io/badge/QQ%20Mail-1984769759@qq.com-168DEA?style=flat-square&logo=tencentqq)](mailto:1984769759@qq.com)
@@ -37,20 +39,33 @@
 ## 📊 数据统计 | Analytics
 
 <div align="center">
+
+### 🌌 访问轨迹 | Footprints
+
+[![🌐 星际访客](https://count.getloli.com/get/@CloudSwordSage?theme=rule34)](https://github.com/CloudSwordSage)
+
+<div style="display: flex; gap: 20px; margin: 30px 0">
+  <img src="https://github-readme-stats.vercel.app/api?username=CloudSwordSage&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&rank_icon=github&hide=issues&line_height=24" 
+       alt="GitHub Stats" 
+       style="flex: 1; box-shadow: 0 4px 8px rgba(122,63,247,0.2); border-radius: 10px; padding: 15px;"/>
   
-![Profile Views](https://komarev.com/ghpvc/?username=CloudSwordSage&color=blueviolet&style=flat-square)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSwordSage&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&card_width=300&exclude_repo=AI-Assistant"
+       alt="Top Langs"
+       style="flex: 1; box-shadow: 0 4px 8px rgba(122,63,247,0.2); border-radius: 10px; padding: 15px;"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CloudSwordSage&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSwordSage&layout=compact&theme=midnight-purple&hide_border=true)
+### ⚡ 代码活力 | Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CloudSwordSage&theme=react-dark&hide_border=true&area=true)
+[![活动图谱](https://github-readme-activity-graph.vercel.app/graph?username=CloudSwordSage&theme=react-dark&hide_border=true&area=true&custom_title=代码能量流%20|%20Contribution%20Flow&radius=12&height=300)](https://github.com/CloudSwordSage)
 
 </div>
 
 ---
 
 ## ⏳ 编程报告 | WakaTime
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -141,4 +156,8 @@ Dart                     1 repo              ██░░░░░░░░░�
   <img src="./assets/github-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
-✨ *"The best way to predict the future is to code it."* ✨
+✨ *"The best way to predict the future is to code it."* ✨  
+✨ *"预知未来最好的方式，就是亲手编码它"* ✨
+
+✨ *"Nothing to see here... or is there?"*  
+✨ *"本页面没有隐藏内容...才怪！"*  
