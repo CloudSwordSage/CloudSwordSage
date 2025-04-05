@@ -1,22 +1,56 @@
-## Hi there 👋
+# 🌊 Hi there! I'm CloudSwordSage 🗡️
 
-- 🌱 I’m currently learning `Python` `PyTorch` `Java` `vue`
-- 📫 How to reach me: `1984769759@qq.com` `zlf100518@gmail.com` `zlf100518@163.com`
+⚡ **A passionate developer exploring the realms of code**  
+🌌 *Turning coffee into code, one commit at a time*
 
-## Skills
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,js,ts" /> </div>
+---
 
-## GitHub Statistics
+## 🛠️ 技术栈 | Tech Arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudSwordSage&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSwordSage&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CloudSwordSage&theme=xcode" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,js,ts" alt="Skills" style="height: 50px; margin: 10px;"/>
 </div>
 
-## WakaTime
+---
 
+## 📚 当前修炼 | Learning Trail
+- 🌱 **Cultivating**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+  ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+---
+
+## 📮 联系通道 | Connect With Me
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/QQ%20Mail-1984769759@qq.com-168DEA?style=flat-square&logo=tencentqq)](mailto:1984769759@qq.com)
+[![Gmail](https://img.shields.io/badge/Gmail-zlf100518@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:zlf100518@gmail.com)
+[![163 Mail](https://img.shields.io/badge/163-zlf100518@163.com-DC143C?style=flat-square)](mailto:zlf100518@163.com)
+
+</div>
+
+---
+
+## 📊 数据统计 | Analytics
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=CloudSwordSage&color=blueviolet&style=flat-square)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CloudSwordSage&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSwordSage&layout=compact&theme=midnight-purple&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CloudSwordSage&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## ⏳ 编程报告 | WakaTime
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -101,4 +135,10 @@ Dart                     1 repo              ██░░░░░░░░░�
  Last Updated on 05/04/2025 07:14:33 UTC
 <!--END_SECTION:waka-->
 
-<div align="center"><img src="./assets/github-snake-dark.svg" /></div>
+---
+
+<div align="center">
+  <img src="./assets/github-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+✨ *"The best way to predict the future is to code it."* ✨
