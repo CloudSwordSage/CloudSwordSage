@@ -110,20 +110,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       █████████████████████████   99.04 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Jinja                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TaiDiB                   1 hr 59 mins        ██████████████░░░░░░░░░░░   54.33 % 
-lab                      1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   39.55 % 
-python_web               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -142,7 +138,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 18:18:47 UTC
+ Last Updated on 23/04/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
 
 ---
