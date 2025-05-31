@@ -75,8 +75,6 @@
 
 > 📦 677.2 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -147,7 +145,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 19:10:18 UTC
+ Last Updated on 31/05/2025 01:03:52 UTC
 <!--END_SECTION:waka-->
 
 ---
