@@ -67,7 +67,7 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2031%20mins-blue)
 
 **🐱 我的 GitHub 数据** 
 
@@ -145,7 +145,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 07:00:47 UTC
+ Last Updated on 03/07/2025 12:28:02 UTC
 <!--END_SECTION:waka-->
 
 ---
