@@ -30,9 +30,9 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/QQ%20Mail-1984769759@qq.com-168DEA?style=flat-square&logo=tencentqq)](mailto:1984769759@qq.com)
-[![Gmail](https://img.shields.io/badge/Gmail-zlf100518@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:zlf100518@gmail.com)
+[![Email](https://img.shields.io/badge/QQ%20Mail-cloudswordsage@qq.com-168DEA?style=flat-square&logo=tencentqq)](mailto:cloudswordsage@qq.com)
 [![163 Mail](https://img.shields.io/badge/163-zlf100518@163.com-DC143C?style=flat-square)](mailto:zlf100518@163.com)
+[![Gmail](https://img.shields.io/badge/Gmail-zlf100518@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:zlf100518@gmail.com)
 
 </div>
 
@@ -155,6 +155,3 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 ✨ *"The best way to predict the future is to code it."* ✨  
 ✨ *"预知未来最好的方式，就是亲手编码它"* ✨
-
-✨ *"Nothing to see here... or is there?"*  
-✨ *"本页面没有隐藏内容...才怪！"*  
