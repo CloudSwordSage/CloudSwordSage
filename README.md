@@ -20,6 +20,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Pytorch" style="height: 30px; margin: 10px;"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Vue.js" style="height: 30px; margin: 10px;"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="height: 30px; margin: 10px;"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" style="height: 30px; margin: 10px;"/>
 </div>
