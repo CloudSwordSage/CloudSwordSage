@@ -68,7 +68,7 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C449%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C449%20hrs%2028%20mins-blue)
 
 **🐱 我的 GitHub 数据** 
 
@@ -146,7 +146,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2025 06:22:09 UTC
+ Last Updated on 25/11/2025 06:50:22 UTC
 <!--END_SECTION:waka-->
 
 ---
