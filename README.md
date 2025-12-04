@@ -47,15 +47,7 @@
 
 [![🌐 星际访客](https://count.getloli.com/get/@CloudSwordSage?theme=rule34)](https://github.com/CloudSwordSage)
 
-<div style="display: flex; gap: 20px; margin: 30px 0">
-  <img src="https://github-readme-stats.vercel.app/api?username=CloudSwordSage&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&rank_icon=github&hide=issues&line_height=24" 
-       alt="GitHub Stats" 
-       style="flex: 1; box-shadow: 0 4px 8px rgba(122,63,247,0.2); border-radius: 10px; padding: 15px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudSwordSage&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&card_width=300&exclude_repo=AI-Assistant"
-       alt="Top Langs"
-       style="flex: 1; box-shadow: 0 4px 8px rgba(122,63,247,0.2); border-radius: 10px; padding: 15px;"/>
-</div>
+[![My user statistics](./assets/user.svg)](https://github.com/cicirello/user-statistician)
 
 ### ⚡ 代码活力 | Activity
 
