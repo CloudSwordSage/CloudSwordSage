@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
     - uses: actions/checkout@v4
 
@@ -46,6 +46,30 @@ jobs:
         commit-and-push: false
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Generate the user stats image
+      uses: cicirello/user-statistician@v1
+      with:
+        image-file: assets/user-dark-dimmed.svg
+        colors: dark-dimmed
+        custom-title: My GitHub Statistics
+        hide-keys: joined, mostStarred, mostForked, followers, following, private
+        max-languages: 100
+        animated-language-chart: true
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+    
+    - name: Generate the user stats image
+      uses: cicirello/user-statistician@v1
+      with:
+        image-file: assets/user.svg
+        colors: dark
+        custom-title: My GitHub Statistics
+        hide-keys: joined, mostStarred, mostForked, followers, following, private
+        max-languages: 100
+        animated-language-chart: true
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
