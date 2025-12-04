@@ -47,15 +47,15 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Generate the user stats image
+    - name: Generate the user stats image - dark-dimmed
       uses: cicirello/user-statistician@v1
       with:
         image-file: assets/user-dark-dimmed.svg
         colors: dark-dimmed
-        custom-title: My GitHub Statistics
         hide-keys: joined, mostStarred, mostForked, followers, following, private
         max-languages: 100
         animated-language-chart: true
+        commit-and-push: false
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     
@@ -64,10 +64,10 @@ jobs:
       with:
         image-file: assets/user.svg
         colors: dark
-        custom-title: My GitHub Statistics
         hide-keys: joined, mostStarred, mostForked, followers, following, private
         max-languages: 100
         animated-language-chart: true
+        commit-and-push: false
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
