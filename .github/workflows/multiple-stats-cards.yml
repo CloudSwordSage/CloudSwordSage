@@ -11,6 +11,8 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
       
     steps:
     - uses: actions/checkout@v4
@@ -21,8 +23,9 @@ jobs:
         image-file: assets/languages.svg
         colors: dark
         hide-keys: general, contributions, repositories
+        commit-and-push: false
       env:
-        GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Generate the contributions stats
       uses: cicirello/user-statistician@v1
@@ -30,8 +33,9 @@ jobs:
         image-file: assets/contribs.svg
         colors: dark
         hide-keys: general, languages, repositories
+        commit-and-push: false
       env:
-        GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Generate the repositories stats
       uses: cicirello/user-statistician@v1
@@ -39,5 +43,12 @@ jobs:
         image-file: assets/repos.svg
         colors: dark
         hide-keys: general, contributions, languages
+        commit-and-push: false
       env:
-        GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: "Update GitHub statistics"
+        add: "assets/*.svg"
