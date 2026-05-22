@@ -53,7 +53,7 @@ jobs:
         image-file: assets/user-dark-dimmed.svg
         colors: dark-dimmed
         hide-keys: joined, mostStarred, mostForked, followers, following, private
-        max-languages: 100
+        max-languages: 10
         animated-language-chart: true
         commit-and-push: false
       env:
@@ -65,7 +65,7 @@ jobs:
         image-file: assets/user.svg
         colors: dark
         hide-keys: joined, mostStarred, mostForked, followers, following, private
-        max-languages: 20
+        max-languages: 10
         animated-language-chart: true
         commit-and-push: false
       env:
