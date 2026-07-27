@@ -60,13 +60,15 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C900%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 2.0 MB GitHub 存储空间 
  > 
-> 🏆 870 个贡献，在 2026 年
+> 🏆 871 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -74,51 +76,6 @@
  > 
 > 🔑 0 个私人仓库 
  > 
-**我是夜猫 🦉** 
-
-```text
-🌞 早晨                     206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-🌆 白天                     430 commits         ████████░░░░░░░░░░░░░░░░░   30.50 % 
-🌃 傍晚                     412 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-🌙 晚上                     362 commits         ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-```
-📅 **星期六 时的我最有干劲** 
-
-```text
-星期一                      200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-星期二                      221 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-星期三                      186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-星期四                      174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-星期五                      190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-星期六                      248 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-星期日                      191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-C++                      2 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.65 % 
-Python                   2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-
-🔥 编辑器: 
-Trae                     5 hrs 26 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 项目: 
-CPP                      2 hrs 58 mins       ██████████████░░░░░░░░░░░   54.67 % 
-llms                     2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.43 % 
-ChatAPI                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-
-💻 操作系统: 
-Windows                  5 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
 **我最常使用 Python** 
 
 ```text
@@ -136,7 +93,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 14:15:57 UTC
+ Last Updated on 27/07/2026 19:17:10 UTC
 <!--END_SECTION:waka-->
 
 ---
