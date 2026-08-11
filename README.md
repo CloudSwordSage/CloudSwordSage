@@ -60,7 +60,7 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C880%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C885%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2026%20mins-blue?style=flat)
 
@@ -103,35 +103,35 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PowerShell               8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
-JSON                     3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-C++                      3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-RGBDS Assembly           1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+PowerShell               8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.92 % 
+RGBDS Assembly           5 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+JSON                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+C++                      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Markdown                 2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
 🔥 编辑器: 
-Trae                     21 hrs 35 mins      █████████████████████████   98.24 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Trae                     26 hrs 38 mins      █████████████████████████   98.57 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 项目: 
-CPP                      9 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
-X86ASM                   5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-elevate-shell            3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-haidian                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Unknown Project          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+CPP                      9 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
+X86ASM                   9 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.69 % 
+elevate-shell            3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+haidian                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+notes                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 操作系统: 
-Windows                  21 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 26 mins (20.24%)
+⏱ AI Coding Time: 4 hrs 26 mins (16.46%)
 
-✍️ 829 lines written by AI, 3,458 lines written by hand (19.34% AI-written)
+✍️ 829 lines written by AI, 4,176 lines written by hand (16.56% AI-written)
 
 🔤 77,336,004 Input Tokens, 468,182 Output Tokens
 
@@ -143,10 +143,10 @@ GPT                      908 lines           ███████████�
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.34% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 16.56% of written lines came from AI
 📚 Verbose Prompter — average 9,520 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 89.7% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.69% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -166,7 +166,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 18:54:04 UTC
+ Last Updated on 11/08/2026 19:52:28 UTC
 <!--END_SECTION:waka-->
 
 ---
