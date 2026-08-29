@@ -68,7 +68,7 @@
 
 > 📦  使用了 2.0 MB GitHub 存储空间 
  > 
-> 🏆 1,143 个贡献，在 2026 年
+> 🏆 1,145 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -79,21 +79,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     413 commits         ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-🌆 白天                     487 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-🌃 傍晚                     488 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-🌙 晚上                     445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌞 早晨                     413 commits         ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌆 白天                     487 commits         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌃 傍晚                     489 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌙 晚上                     446 commits         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-星期二                      277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-星期三                      232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-星期四                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-星期五                      216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-星期六                      401 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-星期日                      236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+星期一                      250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+星期二                      277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+星期三                      232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+星期四                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+星期五                      216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+星期六                      402 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+星期日                      237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 
 
@@ -103,50 +103,49 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Python                   3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Other                    2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-YAML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-C++                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown                 4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Other                    2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Python                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+C++                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 编辑器: 
-Trae                     13 hrs 50 mins      ████████████████████░░░░░   81.96 % 
-Codex Vscode             2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Trae                     11 hrs 36 mins      ██████████████████████░░░   86.96 % 
+Codex Vscode             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🐱‍💻 项目: 
-yasb                     9 hrs 28 mins       ██████████████░░░░░░░░░░░   56.12 % 
-Unknown Project          1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-SMTC                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-TexSolve                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-test                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+yasb                     6 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.73 % 
+SMTC                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Unknown Project          1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+TexSolve                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+test                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 💻 操作系统: 
-Windows                  16 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 44 mins (28.09%)
+⏱ AI Coding Time: 2 hrs 30 mins (18.85%)
 
-✍️ 1,464 lines written by AI, 64,819 lines written by hand (2.21% AI-written)
+✍️ 178 lines written by AI, 62,947 lines written by hand (0.28% AI-written)
 
-🔤 1,887,394 Input Tokens, 190,896 Output Tokens
+🔤 934,005 Input Tokens, 54,606 Output Tokens
 
-💵 $34.70 Estimated AI Cost This Week
+💵 $17.68 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 83 AI Prompts
+🧠 25 AI Sessions, 59 AI Prompts
 
-GPT                      2,018 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      240 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.21% of written lines came from AI
-📚 Verbose Prompter — average 6,707 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.28% of written lines came from AI
+📚 Verbose Prompter — average 5,529 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.01% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.8% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -166,7 +165,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 12:06:46 UTC
+ Last Updated on 29/08/2026 20:17:52 UTC
 <!--END_SECTION:waka-->
 
 ---
