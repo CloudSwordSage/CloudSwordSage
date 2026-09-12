@@ -68,7 +68,7 @@
 
 > 📦  使用了 2.0 MB GitHub 存储空间 
  > 
-> 🏆 1,197 个贡献，在 2026 年
+> 🏆 1,198 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -79,21 +79,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     433 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-🌆 白天                     489 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-🌃 傍晚                     518 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌙 晚上                     462 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+🌞 早晨                     433 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+🌆 白天                     489 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+🌃 傍晚                     519 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌙 晚上                     462 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
 星期一                      261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-星期二                      290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-星期三                      240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+星期二                      290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+星期三                      240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 星期四                      227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-星期五                      224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-星期六                      415 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-星期日                      245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+星期五                      224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+星期六                      416 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+星期日                      245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 
 
@@ -103,53 +103,53 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.74 % 
-Markdown                 3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-JSON                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Text                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Python                   7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.90 % 
+Markdown                 3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Other                    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+JSON                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+PowerShell               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 编辑器: 
-Trae                     17 hrs 27 mins      ███████████████████░░░░░░   75.69 % 
-Opencode Cli             3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Codex CLI                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Trae                     15 hrs 55 mins      ██████████████████░░░░░░░   72.79 % 
+Opencode Cli             3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Codex CLI                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🐱‍💻 项目: 
-yasb                     11 hrs 1 min        ████████████░░░░░░░░░░░░░   47.83 % 
-MaleCNS                  4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Unknown Project          2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-codexRollout             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Laptop                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+yasb                     9 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+MaleCNS                  4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Unknown Project          2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+codexRollout             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Laptop                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 操作系统: 
-Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 39 mins (59.2%)
+⏱ AI Coding Time: 13 hrs 56 mins (63.68%)
 
-✍️ 5,151 lines written by AI, 27,425 lines written by hand (15.81% AI-written)
+✍️ 5,412 lines written by AI, 1,678 lines written by hand (76.33% AI-written)
 
-🔤 5,150,221 Input Tokens, 1,287,988 Output Tokens
+🔤 5,257,639 Input Tokens, 1,303,703 Output Tokens
 
-💵 $528.73 Estimated AI Cost This Week
+💵 $531.33 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 168 AI Prompts
+🧠 57 AI Sessions, 169 AI Prompts
 
-Deepseek                 3,150 lines         ███████████████░░░░░░░░░░   58.31 % 
-GPT                      2,252 lines         ██████████░░░░░░░░░░░░░░░   41.69 % 
+Deepseek                 3,150 lines         ██████████████░░░░░░░░░░░   55.62 % 
+GPT                      2,513 lines         ███████████░░░░░░░░░░░░░░   44.38 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.81% of written lines came from AI
-📚 Verbose Prompter — average 2,927 characters per prompt
+🤖 AI-Driven — 76.33% of written lines came from AI
+📚 Verbose Prompter — average 2,910 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 88.85% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.65% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -169,7 +169,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 14:48:59 UTC
+ Last Updated on 12/09/2026 20:01:28 UTC
 <!--END_SECTION:waka-->
 
 ---
