@@ -33,7 +33,7 @@
   
 [![Email](https://img.shields.io/badge/QQ%20Mail-cloudswordsage@qq.com-168DEA?style=flat-square&logo=tencentqq)](mailto:cloudswordsage@qq.com)
 [![163 Mail](https://img.shields.io/badge/163-zlf100518@163.com-DC143C?style=flat-square)](mailto:zlf100518@163.com)
-[![Gmail](https://img.shields.io/badge/Gmail-zlf100518@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:zlf100518@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-swordsagecloud@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:swordsagecloud@gmail.com)
 
 </div>
 
