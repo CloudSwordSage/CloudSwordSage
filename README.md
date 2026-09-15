@@ -11,7 +11,7 @@
 ## 🛠️ 技术栈 | Tech Arsenal
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,js,ts" alt="Skills" style="height: 50px; margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css" alt="Skills" style="height: 50px; margin: 10px;"/>
 </div>
 
 ---
