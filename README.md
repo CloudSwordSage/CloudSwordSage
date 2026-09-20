@@ -68,7 +68,7 @@
 
 > 📦  使用了 2.0 MB GitHub 存储空间 
  > 
-> 🏆 1,235 个贡献，在 2026 年
+> 🏆 1,236 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -79,21 +79,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     444 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-🌆 白天                     496 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌃 傍晚                     532 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌙 晚上                     472 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌞 早晨                     444 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+🌆 白天                     496 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌃 傍晚                     533 commits         ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+🌙 晚上                     472 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-星期二                      297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+星期一                      270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+星期二                      297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 星期三                      246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-星期四                      229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-星期五                      229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-星期六                      420 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-星期日                      253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+星期四                      229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+星期五                      229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+星期六                      420 commits         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+星期日                      254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 ```
 
 
@@ -103,50 +103,50 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Assembly                 2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-JSON                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-RGBDS Assembly           1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-C++                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Assembly                 3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+JSON                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+RGBDS Assembly           1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs 43 mins       ██████████████░░░░░░░░░░░   56.42 % 
-Trae                     3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Opencode Cli             1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+VS Code                  8 hrs 59 mins       ████████████████░░░░░░░░░   63.90 % 
+Trae                     3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Opencode Cli             1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 
 🐱‍💻 项目: 
-asm                      7 hrs 3 mins        ███████████████░░░░░░░░░░   59.23 % 
-stream-circuit-breaker   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-yasb                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-time                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-plugins                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+asm                      8 hrs 8 mins        ██████████████░░░░░░░░░░░   57.88 % 
+stream-circuit-breaker   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+soler                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+notes                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+yasb                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 💻 操作系统: 
-Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 4 mins (42.59%)
+⏱ AI Coding Time: 5 hrs 13 mins (37.15%)
 
-✍️ 2,884 lines written by AI, 751 lines written by hand (79.34% AI-written)
+✍️ 5,268 lines written by AI, 1,078 lines written by hand (83.01% AI-written)
 
-🔤 1,978,405 Input Tokens, 469,926 Output Tokens
+🔤 2,306,919 Input Tokens, 529,066 Output Tokens
 
-💵 $144.18 Estimated AI Cost This Week
+💵 $144.23 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 76 AI Prompts
+🧠 26 AI Sessions, 80 AI Prompts
 
-Deepseek                 1,539 lines         █████████████░░░░░░░░░░░░   50.91 % 
-GPT                      1,331 lines         ███████████░░░░░░░░░░░░░░   44.03 % 
-Opencode-Cli             153 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+GPT                      3,688 lines         █████████████████░░░░░░░░   68.55 % 
+Deepseek                 1,539 lines         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Opencode-Cli             153 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.34% of written lines came from AI
-📄 Detailed Prompter — average 958 characters per prompt
+🤖 AI-Driven — 83.01% of written lines came from AI
+📄 Detailed Prompter — average 990 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 32.67% of changed lines were hand-edited
+🚀 High AI Trust — 25.51% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -166,7 +166,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 15:14:51 UTC
+ Last Updated on 20/09/2026 20:08:36 UTC
 <!--END_SECTION:waka-->
 
 ---
