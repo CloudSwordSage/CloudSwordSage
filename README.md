@@ -68,7 +68,7 @@
 
 > 📦  使用了 2.0 MB GitHub 存储空间 
  > 
-> 🏆 1,270 个贡献，在 2026 年
+> 🏆 1,271 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -79,21 +79,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     467 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-🌆 白天                     511 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-🌃 傍晚                     559 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-🌙 晚上                     498 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+🌞 早晨                     467 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌆 白天                     511 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌃 傍晚                     559 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+🌙 晚上                     500 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-星期二                      321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-星期三                      262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-星期四                      232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-星期五                      233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-星期六                      440 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-星期日                      260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+星期一                      287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+星期二                      321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+星期三                      262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+星期四                      234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+星期五                      233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+星期六                      440 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+星期日                      260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 ```
 
 
@@ -103,50 +103,50 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C++                      3 hrs 14 mins       ██████████████░░░░░░░░░░░   56.77 % 
-Markdown                 1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+C++                      3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
+Markdown                 1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 4 mins        ██████████████████████░░░   89.09 % 
-Trae                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  6 hrs 55 mins       █████████████████████░░░░   83.77 % 
+Opencode Cli             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Trae                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🐱‍💻 项目: 
-Homework                 1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   34.10 % 
-DOH                      1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   31.89 % 
-DSA                      1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-yasb                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Homework                 1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+DOH                      1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+yasb                     1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+DSA                      1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+opencode-vibeguard       1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 
 💻 操作系统: 
-Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (27.98%)
+⏱ AI Coding Time: 3 hrs 50 mins (46.48%)
 
-✍️ 1,395 lines written by AI, 576 lines written by hand (70.78% AI-written)
+✍️ 2,583 lines written by AI, 585 lines written by hand (81.53% AI-written)
 
-🔤 282,786 Input Tokens, 157,102 Output Tokens
+🔤 2,014,345 Input Tokens, 580,109 Output Tokens
 
-💵 $84.81 Estimated AI Cost This Week
+💵 $195.50 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 17 AI Prompts
+🧠 14 AI Sessions, 38 AI Prompts
 
-Deepseek                 983 lines           ██████████████░░░░░░░░░░░   55.38 % 
-Opencode-Cli             792 lines           ███████████░░░░░░░░░░░░░░   44.62 % 
+Opencode-Cli             1,983 lines         █████████████████░░░░░░░░   66.86 % 
+Deepseek                 983 lines           ████████░░░░░░░░░░░░░░░░░   33.14 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.78% of written lines came from AI
-📄 Detailed Prompter — average 973 characters per prompt
+🤖 AI-Driven — 81.53% of written lines came from AI
+📄 Detailed Prompter — average 572 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 34.07% of changed lines were hand-edited
+🚀 High AI Trust — 22.99% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -166,7 +166,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 17:25:50 UTC
+ Last Updated on 01/10/2026 03:30:57 UTC
 <!--END_SECTION:waka-->
 
 ---
