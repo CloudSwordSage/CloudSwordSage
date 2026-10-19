@@ -60,15 +60,15 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C061%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%208%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 2.0 MB GitHub 存储空间 
  > 
-> 🏆 1,400 个贡献，在 2026 年
+> 🏆 1,401 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -79,21 +79,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     488 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-🌆 白天                     533 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-🌃 傍晚                     629 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 晚上                     588 commits         ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+🌞 早晨                     488 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+🌆 白天                     533 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+🌃 傍晚                     629 commits         ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+🌙 晚上                     589 commits         ███████░░░░░░░░░░░░░░░░░░   26.31 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-星期二                      402 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-星期三                      269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-星期四                      262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-星期五                      260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-星期六                      453 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-星期日                      271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+星期一                      322 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+星期二                      402 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+星期三                      269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+星期四                      262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+星期五                      260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+星期六                      453 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+星期日                      271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 ```
 
 
@@ -103,52 +103,54 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-C++                      4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-PowerShell               3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Python                   3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-JavaScript               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Markdown                 7 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Python                   5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+C++                      3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+PowerShell               3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JavaScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 编辑器: 
-VS Code                  23 hrs 16 mins      ████████████████████░░░░░   80.46 % 
-Opencode Cli             2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Codex Vscode             1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Trae                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+VS Code                  21 hrs 37 mins      ███████████████████░░░░░░   75.17 % 
+Codex Vscode             3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Opencode Cli             3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+OpenCode                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Trae                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 项目: 
-work_area                10 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.45 % 
-ShellProxy               3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Bot                      3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-heart_rate               2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-plugins                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+work_area                9 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
+ShellProxy               3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Bot                      3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+laya-safety              2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+plugins                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 💻 操作系统: 
-Windows                  28 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 54 mins (75.74%)
+⏱ AI Coding Time: 21 hrs 8 mins (73.52%)
 
-✍️ 28,859 lines written by AI, 1,633 lines written by hand (94.64% AI-written)
+✍️ 30,498 lines written by AI, 1,754 lines written by hand (94.56% AI-written)
 
-🔤 8,903,362 Input Tokens, 3,332,646 Output Tokens
+🔤 13,318,440 Input Tokens, 3,085,276 Output Tokens
 
-💵 $2641.75 Estimated AI Cost This Week
+💵 $2599.12 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 186 AI Prompts
+🧠 70 AI Sessions, 166 AI Prompts
 
-Opencode-Cli             28,584 lines        ████████████████████████░   94.23 % 
-Deepseek                 983 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-GPT                      463 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-DeepSeek                 305 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Opencode-Cli             23,415 lines        ██████████████████░░░░░░░   73.27 % 
+DeepSeek                 2,976 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+GPT                      2,679 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Vscode                   1,905 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Deepseek                 983 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.64% of written lines came from AI
-📚 Verbose Prompter — average 3,745 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.72% of changed lines were hand-edited
+🤖 AI-Driven — 94.56% of written lines came from AI
+📚 Verbose Prompter — average 4,581 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 6.81% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -168,7 +170,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 15:14:49 UTC
+ Last Updated on 19/10/2026 02:44:55 UTC
 <!--END_SECTION:waka-->
 
 ---
