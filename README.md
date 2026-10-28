@@ -68,7 +68,7 @@
 
 > 📦  使用了 2.0 MB GitHub 存储空间 
  > 
-> 🏆 1,440 个贡献，在 2026 年
+> 🏆 1,446 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -79,21 +79,21 @@
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     499 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-🌆 白天                     536 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-🌃 傍晚                     640 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-🌙 晚上                     606 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+🌞 早晨                     500 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+🌆 白天                     536 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+🌃 傍晚                     647 commits         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+🌙 晚上                     608 commits         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-星期二                      410 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-星期三                      277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-星期四                      270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-星期五                      265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-星期六                      458 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-星期日                      274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+星期一                      327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+星期二                      410 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+星期三                      279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+星期四                      278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+星期五                      265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+星期六                      458 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+星期日                      274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 
 
@@ -103,50 +103,50 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
-Markdown                 5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-C++                      3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Other                    2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Python                   9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.15 % 
+Markdown                 4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+C++                      3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+PowerShell               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 26 mins      █████████████░░░░░░░░░░░░   51.60 % 
-Opencode Cli             10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   42.30 % 
-Codex Vscode             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-OpenCode                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+VS Code                  11 hrs 21 mins      █████████████░░░░░░░░░░░░   52.49 % 
+Opencode Cli             8 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
+Codex Vscode             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+OpenCode                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 项目: 
-Bot                      11 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.97 % 
-VoxFence                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-TexSolve                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-PCL-CE-Hook_Launcher     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-tglass-firmware          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Bot                      11 hrs 5 mins       █████████████░░░░░░░░░░░░   51.20 % 
+VoxFence                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+TexSolve                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+tglass-firmware          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+test                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 操作系统: 
-Windows                  24 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 57 mins (86.92%)
+⏱ AI Coding Time: 18 hrs 34 mins (85.83%)
 
-✍️ 56,363 lines written by AI, 341 lines written by hand (99.4% AI-written)
+✍️ 56,728 lines written by AI, 345 lines written by hand (99.4% AI-written)
 
-🔤 8,225,308 Input Tokens, 2,181,231 Output Tokens
+🔤 6,619,910 Input Tokens, 2,060,625 Output Tokens
 
-💵 $2536.78 Estimated AI Cost This Week
+💵 $2454.03 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 93 AI Prompts
+🧠 40 AI Sessions, 66 AI Prompts
 
-DeepSeek                 55,531 lines        █████████████████████████   98.27 % 
-GPT                      980 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+DeepSeek                 55,896 lines        █████████████████████████   98.28 % 
+GPT                      980 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.4% of written lines came from AI
-📚 Verbose Prompter — average 3,903 characters per prompt
+📚 Verbose Prompter — average 4,103 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.76% of changed lines were hand-edited
+🚀 High AI Trust — 0.8% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -166,7 +166,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CloudSwordSage/CloudSwordSage/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 03:28:19 UTC
+ Last Updated on 28/10/2026 17:48:45 UTC
 <!--END_SECTION:waka-->
 
 ---
